@@ -1,0 +1,19 @@
+
+
+h1 {
+  position: fixed;
+  font-family: "Arial", Arial, Times, serif;
+  font-size: 120px;
+  left: 600px;
+  top: -20px;
+  color: blue;
+}
+
+h2 {
+  position: fixed;
+  font-family: "Arial", Arial, Times, serif;
+  font-size: 40px;
+  top: 40px;
+  left: 597px;
+  color: blueviolet;
+}

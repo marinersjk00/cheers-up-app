@@ -1,0 +1,13 @@
+form {
+    position: fixed;
+    left: 200px;
+    top: 100px;
+}
+
+input {
+    padding: 8px;
+}
+
+p {
+    padding: 20px;
+}
